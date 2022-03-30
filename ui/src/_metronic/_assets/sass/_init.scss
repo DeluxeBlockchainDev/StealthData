@@ -1,0 +1,124 @@
+//
+// Main init file of global bootstrap and theme functions, mixins, variables and config
+//
+
+
+// Functions
+@import "base/functions";
+
+// Mixins
+@import "base/mixins";
+@import "components/mixins";
+@import "vendors/plugins/mixins";
+
+// Bootstrap mixins
+@import "~bootstrap/scss/_mixins.scss";
+
+// Global variables
+@import "components/variables.demo";
+@import "components/variables.bootstrap";
+@import "components/variables.custom";
+
+// 3rd-Party plugins variables
+@import "vendors/plugins/variables";
+
+// Theme layout variables
+@import "layout/variables";
+
+
+.svg-icon.svg-icon-mail-o svg g [fill] {
+    stroke: #009cdd;
+    fill: #fff;
+}
+
+
+
+/* Payment Gateway Css */
+label[for=iframesCardNumber], label[for=iframesCardExpiration], label[for=iframesCardCvv] {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 13px;
+    color: #555;
+    line-height: 1.5;
+}
+
+#ss-banner {
+    background: transparent url(https://github.com/hps/heartland-php/blob/master/examples/end-to-end/assets/images/ss-shield@2x.png?raw=true) no-repeat left center;
+    height: 40px;
+    background-size: 280px 34px;
+    margin-bottom: 7px;
+}
+
+.form-row {
+  margin-top: 10px;
+}
+
+.form-wrapper {
+  display: block;
+  width: 300px;
+  margin: 10px auto;
+}
+
+
+#review-form .table td, #review-form .table th {
+  border-top: 0;
+}
+
+@media (min-width: 1400px) {
+  .container, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl {
+    max-width: 1360px !important;
+  }
+}
+
+.blockbuilder-branding{
+  display: none;
+}
+
+.template-card {
+  flex: 1 1 0%;
+  border: 1px solid rgb(238, 238, 238);
+  // box-shadow: rgb(0 0 0 / 15%) 0px 2px 4px;
+  max-height: 500px;
+  min-height: 150px;
+  max-width: 310px;
+  min-width: 310px;
+  overflow: hidden;
+  border-radius: 4px;
+  margin-bottom: 25px;
+  transition: all 0.2s ease 0s;
+  position: relative;
+
+  .image{
+    display: inline-block;
+    margin-right: 10px;
+    float: left;
+    color: #071016;
+  }
+  
+  .hover {
+    display: none;
+    position: absolute;
+    inset: 0px;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    text-align: center;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex-direction: column;
+
+    h3 {
+      margin-bottom: 20px;
+      font-size: 24px;
+    }
+  }
+
+  &:hover {
+    transform: translateY(-0.5rem);
+    // box-shadow: rgb(0 0 0 / 15%) 0px 5px 20px;
+    .hover {
+      display: flex;
+    }
+  }
+}

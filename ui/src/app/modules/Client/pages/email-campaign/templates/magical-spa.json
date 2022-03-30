@@ -1,0 +1,421 @@
+{
+  "counters": {
+    "u_column": 5,
+    "u_row": 3,
+    "u_content_image": 3,
+    "u_content_heading": 3,
+    "u_content_text": 2,
+    "u_content_divider": 1,
+    "u_content_html": 6,
+    "u_content_button": 1
+  },
+  "body": {
+    "rows": [
+      {
+        "cells": [1],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "containerPadding": "82px 10px 20px",
+                  "src": {
+                    "url": "https://sdemailmarketing.com/images/common/templates/messages/574/1/img/574_02.png",
+                    "width": 156,
+                    "height": 24,
+                    "autoWidth": true,
+                    "maxWidth": "32.5%"
+                  },
+                  "textAlign": "left",
+                  "altText": "Image",
+                  "action": {
+                    "name": "web",
+                    "values": {
+                      "href": "",
+                      "target": "_blank"
+                    }
+                  },
+                  "hideDesktop": false,
+                  "_meta": {
+                    "htmlID": "u_content_image_1",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "heading",
+                "values": {
+                  "containerPadding": "10px 10px 50px",
+                  "headingType": "h1",
+                  "fontFamily": {
+                    "label": "Arial",
+                    "value": "arial,helvetica,sans-serif"
+                  },
+                  "fontSize": "72px",
+                  "color": "#45d6ca",
+                  "textAlign": "left",
+                  "lineHeight": "110%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "hideDesktop": false,
+                  "_meta": {
+                    "htmlID": "u_content_heading_1",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "text": "Recharge your body and soul.",
+                  "_override": {
+                    "mobile": {
+                      "fontSize": "36px"
+                    }
+                  }
+                }
+              },
+              {
+                "type": "heading",
+                "values": {
+                  "containerPadding": "10px",
+                  "headingType": "h1",
+                  "fontFamily": {
+                    "label": "Arial",
+                    "value": "arial,helvetica,sans-serif"
+                  },
+                  "fontSize": "20px",
+                  "color": "#758584",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "hideDesktop": false,
+                  "_meta": {
+                    "htmlID": "u_content_heading_2",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "text": "Sit back relax and let us take care of you."
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px 10px 30px",
+                  "color": "#a1b0af",
+                  "textAlign": "left",
+                  "lineHeight": "100%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "hideDesktop": false,
+                  "_meta": {
+                    "htmlID": "u_content_text_2",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "text": "<p style=\"font-size: 14px; line-height: 100%;\">Choose from three different packages of special treatments:</p>"
+                }
+              },
+              {
+                "type": "html",
+                "values": {
+                  "html": "<div style=\"margin: 0px; padding: 0px; border-top: 14px solid rgb(255, 255, 255); border-right: 11px solid rgb(255, 255, 255); border-left: 11px solid rgb(255, 255, 255); \">\n <img src=\"https://sdemailmarketing.com/images/common/templates/messages/574/1/img/574_03.jpg\" alt=\"\" width=\"487\" border=\"0\" data-origsrc=\"https://sdemailmarketing.com/images/common/templates/messages/574/1/img/574_03.jpg\" data-src=\"https://sdemailmarketing.com/images/common/templates/messages/574/1/img/574_03.jpg|487|103|487|103|0|0|1\" class=\"mobile-image-stretch-enabled\" style=\"border-width: 0px; border-style: none; border-color: transparent; font-size: 12px; display: block; width: 100%; max-width: 100% !important;\">\n</div>",
+                  "hideDesktop": false,
+                  "containerPadding": "0px",
+                  "_meta": {
+                    "htmlID": "u_content_html_2",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "html",
+                "values": {
+                  "html": "<div style=\"padding: 13px 11px 13px 14px; margin: 0px; border-right: 11px solid rgb(255, 255, 255); border-bottom: 8px solid rgb(255, 255, 255); border-left: 11px solid rgb(255, 255, 255); border-top-color: rgb(255, 255, 255); background-color: rgb(111, 223, 214); font-size: 16px; font-family: 'Times New Roman', Times, serif; line-height: 1.15;\">\n <span style=\"font-family: 'Helvetica Neue', Helvetica, sans-serif; color:#ffffff;font-size:18px;font-weight:500;\">\n Full body Thai Massage & Aromatherapy\n </span>\n <div data-box=\"button\" style=\"width: 100%; margin-top: 0px; margin-bottom: 0px; text-align: right;\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" align=\"right\" valign=\"top\" style=\"margin: 0px 0px 0px auto; padding: 0px;\" data-editable=\"button\">\n <div style=\"display: inline-block; padding: 5px 11px; margin: 0px; border-radius: 39px; background-color: rgb(245, 151, 125);\">\n <a href=\"\" style=\"font-family:'Helvetica Neue',Helvetica,sans-serif;color:#ffffff;font-size:11px;font-weight:400;text-decoration:none;\">\n more info ›\n </a>\n </div>\n </div>\n</div>",
+                  "hideDesktop": false,
+                  "containerPadding": "0px",
+                  "_meta": {
+                    "htmlID": "u_content_html_1",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "html",
+                "values": {
+                  "html": "<div style=\"margin: 0px; padding: 0px; border-top: 8px solid rgb(255, 255, 255); border-right: 11px solid rgb(255, 255, 255); border-left: 11px solid rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255);\" class=\"tdBlock responsive-cell\">\n <img src=\"https://sdemailmarketing.com/images/common/templates/messages/574/1/img/574_04.jpg\" alt=\"\" width=\"487\" border=\"0\" data-origsrc=\"https://sdemailmarketing.com/images/common/templates/messages/574/1/img/574_04.jpg\" data-src=\"https://sdemailmarketing.com/images/common/templates/messages/574/1/img/574_04.jpg|487|103|487|103|0|0|1\" class=\"mobile-image-stretch-enabled\" style=\"border-width: 0px; border-style: none; border-color: transparent; font-size: 12px; display: block; width: 100%; max-width: 100% !important;\" />\n</div>",
+                  "hideDesktop": false,
+                  "containerPadding": "0px",
+                  "_meta": {
+                    "htmlID": "u_content_html_3",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "html",
+                "values": {
+                  "html": "<div style=\"padding: 13px 11px 13px 14px; margin: 0px; border-right: 11px solid rgb(255, 255, 255); border-bottom: 8px solid rgb(255, 255, 255); border-left: 11px solid rgb(255, 255, 255); border-top-color: rgb(255, 255, 255); background-color: rgb(111, 223, 214); font-size: 16px; font-family: 'Times New Roman', Times, serif; line-height: 1.15;\">\n <span style=\"font-family: 'Helvetica Neue', Helvetica, sans-serif; color:#ffffff;font-size:18px;font-weight:500;\">\n Swedish Massage & Sauna\n </span>\n <div data-box=\"button\" style=\"width: 100%; margin-top: 0px; margin-bottom: 0px; text-align: right;\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" align=\"right\" style=\"margin: 0px 0px 0px auto; padding: 0px;\" data-editable=\"button\">\n <div class=\"tdBlock\" style=\"display: inline-block; padding: 4px 11px; margin: 0px; border-radius: 39px; background-color: rgb(245, 151, 125);\">\n <a href=\"\" style=\"font-family:'Helvetica Neue',Helvetica,sans-serif;color:#ffffff;font-size:11px;font-weight:400;text-decoration:none;\">\n more info ›\n </a>\n </div>\n </div>\n</div>",
+                  "hideDesktop": false,
+                  "containerPadding": "0px",
+                  "_meta": {
+                    "htmlID": "u_content_html_4",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "html",
+                "values": {
+                  "html": "<div style=\"margin: 0px; padding: 0px; border-top: 8px solid rgb(255, 255, 255); border-right: 11px solid rgb(255, 255, 255); border-left: 11px solid rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255);\" class=\"tdBlock responsive-cell\">\n <img src=\"https://sdemailmarketing.com/images/common/templates/messages/574/1/img/574_05.jpg\" alt=\"\" width=\"487\" border=\"0\" data-origsrc=\"https://sdemailmarketing.com/images/common/templates/messages/574/1/img/574_05.jpg\" data-src=\"https://sdemailmarketing.com/images/common/templates/messages/574/1/img/574_05.jpg|487|104|487|104|0|0|1\" class=\"mobile-image-stretch-enabled\" style=\"border-width: 0px; border-style: none; border-color: transparent; font-size: 12px; display: block; width: 100%; max-width: 100% !important;\">\n</div>",
+                  "hideDesktop": false,
+                  "containerPadding": "0px",
+                  "_meta": {
+                    "htmlID": "u_content_html_5",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "html",
+                "values": {
+                  "html": "<div class=\"lh-1\" style=\"padding: 13px 11px 13px 14px; margin: 0px; border-right: 11px solid rgb(255, 255, 255); border-bottom: 13px solid rgb(255, 255, 255); border-left: 11px solid rgb(255, 255, 255); border-top-color: rgb(255, 255, 255); background-color: rgb(111, 223, 214); font-size: 16px; font-family: 'Times New Roman', Times, serif; line-height: 1.15;\">\n <span style=\"font-family: 'Helvetica Neue', Helvetica, sans-serif; color:#ffffff;font-size:18px;font-weight:500;\">\n Stone Massage & Facial Treatment \n </span>\n <div data-box=\"button\" style=\"width: 100%; margin-top: 0px; margin-bottom: 0px; text-align: right;\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" align=\"right\" style=\"margin: 0px 0px 0px auto; padding: 0px;\" data-editable=\"button\">\n <div class=\"tdBlock\" style=\"display: inline-block; padding: 4px 11px; margin: 0px; border-radius: 39px; background-color: rgb(245, 151, 125);\">\n <a href=\"\" style=\"font-family:'Helvetica Neue',Helvetica,sans-serif;color:#ffffff;font-size:11px;font-weight:400;text-decoration:none;\">\n more info ›\n </a>\n </div>\n </div>\n</div>",
+                  "hideDesktop": false,
+                  "containerPadding": "0px",
+                  "_meta": {
+                    "htmlID": "u_content_html_6",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "heading",
+                "values": {
+                  "containerPadding": "36px 10px 18px",
+                  "headingType": "h1",
+                  "fontFamily": {
+                    "label": "Arial",
+                    "value": "arial,helvetica,sans-serif"
+                  },
+                  "fontSize": "16px",
+                  "color": "#758584",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "hideDesktop": false,
+                  "_meta": {
+                    "htmlID": "u_content_heading_3",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "text": "ORDER TODAY"
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px 10px 30px",
+                  "color": "#a1b0af",
+                  "textAlign": "left",
+                  "lineHeight": "100%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "hideDesktop": false,
+                  "_meta": {
+                    "htmlID": "u_content_text_1",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "text": "<p style=\"font-size: 14px; line-height: 100%;\">and receive a free welcome drink and healthy fresh fruit snack.</p>"
+                }
+              },
+              {
+                "type": "button",
+                "values": {
+                  "containerPadding": "10px 10px 40px",
+                  "href": {
+                    "name": "web",
+                    "values": {
+                      "href": "",
+                      "target": "_blank"
+                    }
+                  },
+                  "buttonColors": {
+                    "color": "#FFFFFF",
+                    "backgroundColor": "#f5977d",
+                    "hoverColor": "#FFFFFF",
+                    "hoverBackgroundColor": "#3AAEE0"
+                  },
+                  "size": {
+                    "autoWidth": true,
+                    "width": "100%"
+                  },
+                  "textAlign": "left",
+                  "lineHeight": "120%",
+                  "padding": "10px 20px",
+                  "border": {},
+                  "borderRadius": "40px",
+                  "hideDesktop": false,
+                  "_meta": {
+                    "htmlID": "u_content_button_1",
+                    "htmlClassNames": "u_content_button"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "text": "For more details, see our website ›",
+                  "calculatedWidth": 256,
+                  "calculatedHeight": 36
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              }
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "backgroundColor": "",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "https://sdemailmarketing.com/images/common/templates/messages/574/1/img/574_01.jpg",
+            "fullWidth": true,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "padding": "0px",
+          "hideDesktop": false,
+          "_meta": {
+            "htmlID": "u_row_1",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true
+        }
+      }
+    ],
+    "values": {
+      "textColor": "#000000",
+      "backgroundColor": "#e7e7e7",
+      "backgroundImage": {
+        "url": "",
+        "fullWidth": true,
+        "repeat": false,
+        "center": true,
+        "cover": false
+      },
+      "contentWidth": "500px",
+      "contentAlign": "center",
+      "fontFamily": {
+        "label": "Arial",
+        "value": "arial,helvetica,sans-serif"
+      },
+      "preheaderText": "",
+      "linkStyle": {
+        "body": true,
+        "linkColor": "#0000ee",
+        "linkHoverColor": "#0000ee",
+        "linkUnderline": true,
+        "linkHoverUnderline": true
+      },
+      "_meta": {
+        "htmlID": "u_body",
+        "htmlClassNames": "u_body"
+      }
+    }
+  },
+  "schemaVersion": 6
+}

@@ -1,0 +1,952 @@
+{
+    "counters": {
+        "u_column": 14,
+        "u_row": 10,
+        "u_content_text": 9,
+        "u_content_image": 6,
+        "u_content_html": 3,
+        "u_content_button": 1
+    },
+    "body": {
+        "rows": [
+            {
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "contents": [
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "_meta": {
+                                        "htmlID": "u_content_text_1",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"font-size: 72px; line-height: 100.8px;\"><span style=\"line-height: 100.8px; font-size: 72px;\">Green </span><strong><span style=\"line-height: 100.8px; font-size: 72px;\"><span style=\"color: #5fb012; line-height: 100.8px; font-size: 72px;\">____</span></span></strong></span><br /><span style=\"font-size: 72px; line-height: 100.8px;\"><strong><span style=\"line-height: 100.8px; font-size: 72px;\">Hillside</span></strong></span></p>\n<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"font-size: 72px; line-height: 100.8px;\"><span style=\"line-height: 100.8px; color: #5fb012; font-size: 72px;\"> Estate News</span></span><br /><span style=\"font-size: 72px; line-height: 100.8px;\"><strong><span style=\"line-height: 100.8px; color: #5fb012; font-size: 72px;\">&mdash;&mdash;&mdash;</span></strong></span></p>"
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "_meta": {
+                                "htmlID": "u_column_1",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "https://sdemailmarketing.com/images/common/templates/messages/255/1/img/01.jpg",
+                        "width": 400,
+                        "height": 444,
+                        "fullWidth": true,
+                        "cover": false,
+                        "repeat": true,
+                        "center": true
+                    },
+                    "padding": "0px",
+                    "hideDesktop": false,
+                    "_meta": {
+                        "htmlID": "u_row_1",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "cells": [
+                    56.2,
+                    43.8
+                ],
+                "columns": [
+                    {
+                        "contents": [
+                            {
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "0px",
+                                    "src": {
+                                        "url": "https://sdemailmarketing.com/images/common/templates/messages/255/1/img/02.jpg",
+                                        "width": 280,
+                                        "height": 153
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "Image",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "_meta": {
+                                        "htmlID": "u_content_image_1",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "#ffffff",
+                            "padding": "0px",
+                            "border": {
+                                "borderTopWidth": "10px",
+                                "borderTopStyle": "solid",
+                                "borderTopColor": "#eee5df",
+                                "borderLeftWidth": "10px",
+                                "borderLeftStyle": "solid",
+                                "borderLeftColor": "#eee5df",
+                                "borderRightWidth": "10px",
+                                "borderRightStyle": "solid",
+                                "borderRightColor": "#eee5df",
+                                "borderBottomWidth": "10px",
+                                "borderBottomStyle": "solid",
+                                "borderBottomColor": "#eee5df"
+                            },
+                            "_meta": {
+                                "htmlID": "u_column_2",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    },
+                    {
+                        "contents": [
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "_meta": {
+                                        "htmlID": "u_content_text_2",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"font-size: 32px; line-height: 44.8px;\"><strong><span style=\"line-height: 44.8px; font-size: 32px;\"><span style=\"color: #5fb012; line-height: 44.8px; font-size: 32px;\">&macr;&macr;&macr;&macr;</span></span></strong></span><br /><span style=\"font-size: 40px; line-height: 56px;\"><span style=\"font-size: 38px; line-height: 53.2px;\"><strong>Affordable</strong> </span><span style=\"font-size: 36px; line-height: 50.4px;\">dream</span></span><br /><span style=\"font-size: 30px; line-height: 42px;\"><strong><span style=\"line-height: 42px; font-size: 30px;\">homes</span></strong></span></p>\n<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"color: #5fb012; font-size: 24px; line-height: 33.6px;\">Real Estate</span></p>"
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "_meta": {
+                                "htmlID": "u_column_3",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "#ffffff",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "_meta": {
+                        "htmlID": "u_row_2",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "cells": [
+                    56.4,
+                    43.6
+                ],
+                "columns": [
+                    {
+                        "contents": [
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "_meta": {
+                                        "htmlID": "u_content_text_4",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"color: #ada49c; font-size: 14px; line-height: 19.6px;\">Your weekly newsletter keeps subscribers up-to-date with all the latest listings.</span></p>\n<p style=\"font-size: 14px; line-height: 140%;\">&nbsp;</p>\n<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"color: #ada49c; font-size: 14px; line-height: 19.6px;\">Encourage direct contact to establish a relationship, so you can pre-qualify buyers and provide sellers with a competitive market analysis.</span></p>\n<p style=\"font-size: 14px; line-height: 140%;\">&nbsp;</p>\n<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"color: #ada49c; font-size: 14px; line-height: 19.6px;\">Invite subscribers to request customized listings to match their expectations and budget</span></p>"
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "#ffffff",
+                            "padding": "0px",
+                            "border": {
+                                "borderTopWidth": "0px",
+                                "borderTopStyle": "solid",
+                                "borderTopColor": "#eee5df",
+                                "borderLeftWidth": "0px",
+                                "borderLeftStyle": "solid",
+                                "borderLeftColor": "#eee5df",
+                                "borderRightWidth": "0px",
+                                "borderRightStyle": "solid",
+                                "borderRightColor": "#eee5df",
+                                "borderBottomWidth": "0px",
+                                "borderBottomStyle": "solid",
+                                "borderBottomColor": "#eee5df"
+                            },
+                            "_meta": {
+                                "htmlID": "u_column_4",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    },
+                    {
+                        "contents": [
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "_meta": {
+                                        "htmlID": "u_content_text_3",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"color: #ada49c; font-size: 14px; line-height: 19.6px;\">It&rsquo;s a great way to show-off what you can do, wow them with your expertise, and create a buying mindset.</span></p>\n<p style=\"font-size: 14px; line-height: 140%;\">&nbsp;</p>\n<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"color: #ada49c; font-size: 14px; line-height: 19.6px;\">Building your dream home means building to impress..</span></p>"
+                                }
+                            },
+                            {
+                                "type": "html",
+                                "values": {
+                                    "html": "<td align=\"left\" valign=\"top\" class=\"lh-1\" style=\"line-height: 1.15; margin: 0px; padding: 0px 20px 25px; font-size: 16px; font-family: 'Times New Roman', Times, serif;\"> \n                                                            <span style=\"font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#5fb012;font-size:16px;font-weight:bold\" class=\"responsive-cell\">\n                                                                <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" align=\"left\" data-editable=\"image\" data-mobile-stretch=\"0\" style=\"mso-table-rspace: 7pt\" width=\"25\" id=\"edicckkk\">\n                                                                    <tbody><tr>\n                                                                        <td valign=\"bottom\" align=\"left\" style=\"display: inline-block; margin: 0px; padding: 4px 5px 0px 0px;\" class=\"tdBlock responsive-cell\"><img src=\"https://sdemailmarketing.com/images/common/templates/messages/255/1/img/04.png\" alt=\"\" width=\"20\" height=\"18\" border=\"0\" data-origsrc=\"https://sdemailmarketing.com/images/common/templates/messages/255/1/img/04.png\" data-src=\"https://sdemailmarketing.com/images/common/templates/messages/255/1/img/04.png|20|18|20|18|0|0|1\" class=\"mobile-image-stretch-enabled\" style=\"border-width: 0px; border-style: none; border-color: transparent; font-size: 12px; display: block;\"></td>\n                                                                    </tr>\n                                                                </tbody></table>  \n                                                                <a href=\"\" style=\"text-decoration:none;color:#5fb012\">\n                                                                    Read more »\n                                                                </a>\n                                                                <span style=\"font-family:Arial,Courier,Times;color:#5fb012;font-size:20px;font-weight:bold;\">\n                                                                &nbsp;&nbsp;———\n                                                                </span>\n                                                            </span>\n                                                        </td>",
+                                    "containerPadding": "10px",
+                                    "_meta": {
+                                        "htmlID": "u_content_html_2",
+                                        "htmlClassNames": "u_content_html"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "_meta": {
+                                "htmlID": "u_column_5",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "#ffffff",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "_meta": {
+                        "htmlID": "u_row_3",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "cells": [
+                    51.8,
+                    48.2
+                ],
+                "columns": [
+                    {
+                        "contents": [
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "_meta": {
+                                        "htmlID": "u_content_text_7",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"font-size: 32px; line-height: 44.8px;\"><strong><span style=\"line-height: 44.8px; font-size: 32px;\"><span style=\"color: #5fb012; line-height: 44.8px; font-size: 32px;\">&macr;&macr;&macr;&macr;</span></span></strong></span><br /><span style=\"font-size: 40px; line-height: 56px;\"><span style=\"font-size: 38px; line-height: 53.2px;\"><strong>Listings</strong></span></span><br /><span style=\"font-size: 30px; line-height: 42px;\"><strong><span style=\"line-height: 42px; font-size: 30px;\">of the week</span></strong></span></p>\n<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"color: #5fb012; font-size: 24px; line-height: 33.6px;\">Premium bungalow</span></p>"
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "#ffffff",
+                            "padding": "0px",
+                            "border": {
+                                "borderTopWidth": "0px",
+                                "borderTopStyle": "solid",
+                                "borderTopColor": "#eee5df",
+                                "borderLeftWidth": "0px",
+                                "borderLeftStyle": "solid",
+                                "borderLeftColor": "#eee5df",
+                                "borderRightWidth": "0px",
+                                "borderRightStyle": "solid",
+                                "borderRightColor": "#eee5df",
+                                "borderBottomWidth": "0px",
+                                "borderBottomStyle": "solid",
+                                "borderBottomColor": "#eee5df"
+                            },
+                            "_meta": {
+                                "htmlID": "u_column_9",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    },
+                    {
+                        "contents": [
+                            {
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "0px",
+                                    "src": {
+                                        "url": "https://sdemailmarketing.com/images/common/templates/messages/255/1/img/03.jpg",
+                                        "width": 280,
+                                        "height": 153
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "Image",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "_meta": {
+                                        "htmlID": "u_content_image_5",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {
+                                "borderTopWidth": "10px",
+                                "borderTopStyle": "solid",
+                                "borderTopColor": "#eee5df",
+                                "borderLeftWidth": "10px",
+                                "borderLeftStyle": "solid",
+                                "borderLeftColor": "#eee5df",
+                                "borderRightWidth": "10px",
+                                "borderRightStyle": "solid",
+                                "borderRightColor": "#eee5df",
+                                "borderBottomWidth": "10px",
+                                "borderBottomStyle": "solid",
+                                "borderBottomColor": "#eee5df"
+                            },
+                            "_meta": {
+                                "htmlID": "u_column_10",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "#fcfcfb",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "_meta": {
+                        "htmlID": "u_row_6",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "cells": [
+                    49.4,
+                    50.6
+                ],
+                "columns": [
+                    {
+                        "contents": [
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "_meta": {
+                                        "htmlID": "u_content_text_5",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"color: #ada49c; font-size: 14px; line-height: 19.6px;\">Create a showcase of hand-picked listings with teaser info to grab their attention. Then lure them to your site where they can filter offers.</span></p>\n<p style=\"font-size: 14px; line-height: 140%;\">&nbsp;</p>\n<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"color: #ada49c; font-size: 14px; line-height: 19.6px;\">Then lure them to your site where they can filter offers.</span></p>"
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "#ffffff",
+                            "padding": "0px",
+                            "border": {
+                                "borderTopWidth": "0px",
+                                "borderTopStyle": "solid",
+                                "borderTopColor": "#eee5df",
+                                "borderLeftWidth": "0px",
+                                "borderLeftStyle": "solid",
+                                "borderLeftColor": "#eee5df",
+                                "borderRightWidth": "0px",
+                                "borderRightStyle": "solid",
+                                "borderRightColor": "#eee5df",
+                                "borderBottomWidth": "0px",
+                                "borderBottomStyle": "solid",
+                                "borderBottomColor": "#eee5df"
+                            },
+                            "_meta": {
+                                "htmlID": "u_column_7",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    },
+                    {
+                        "contents": [
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "_meta": {
+                                        "htmlID": "u_content_text_6",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"color: #ada49c; font-size: 14px; line-height: 19.6px;\">Need a renovation company? The footer is a great location for paid or third-party ads.</span></p>\n<p style=\"font-size: 14px; line-height: 140%;\">&nbsp;</p>\n<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"color: #ada49c; font-size: 14px; line-height: 19.6px;\">Or use it for a featured listing that&rsquo;s guaranteed to make them start packing-up their household furnishings today.</span></p>"
+                                }
+                            },
+                            {
+                                "type": "html",
+                                "values": {
+                                    "html": "<td align=\"left\" valign=\"top\" class=\"lh-1\" style=\"line-height: 1.15; margin: 0px; padding: 0px 20px 25px; font-size: 16px; font-family: 'Times New Roman', Times, serif;\"> \n                                                            <span style=\"font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#5fb012;font-size:16px;font-weight:bold\" class=\"responsive-cell\">\n                                                                <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" align=\"left\" data-editable=\"image\" data-mobile-stretch=\"0\" style=\"mso-table-rspace: 7pt\" width=\"25\" id=\"edicckkk\">\n                                                                    <tbody><tr>\n                                                                        <td valign=\"bottom\" align=\"left\" style=\"display: inline-block; margin: 0px; padding: 4px 5px 0px 0px;\" class=\"tdBlock responsive-cell\"><img src=\"https://sdemailmarketing.com/images/common/templates/messages/255/1/img/04.png\" alt=\"\" width=\"20\" height=\"18\" border=\"0\" data-origsrc=\"https://sdemailmarketing.com/images/common/templates/messages/255/1/img/04.png\" data-src=\"https://sdemailmarketing.com/images/common/templates/messages/255/1/img/04.png|20|18|20|18|0|0|1\" class=\"mobile-image-stretch-enabled\" style=\"border-width: 0px; border-style: none; border-color: transparent; font-size: 12px; display: block;\"></td>\n                                                                    </tr>\n                                                                </tbody></table>  \n                                                                <a href=\"\" style=\"text-decoration:none;color:#5fb012\">\n                                                                    Read more »\n                                                                </a>\n                                                                <span style=\"font-family:Arial,Courier,Times;color:#5fb012;font-size:20px;font-weight:bold;\">\n                                                                &nbsp;&nbsp;———\n                                                                </span>\n                                                            </span>\n                                                        </td>",
+                                    "containerPadding": "10px",
+                                    "_meta": {
+                                        "htmlID": "u_content_html_3",
+                                        "htmlClassNames": "u_content_html"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "_meta": {
+                                "htmlID": "u_column_8",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "#ffffff",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "_meta": {
+                        "htmlID": "u_row_5",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "contents": [
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "_meta": {
+                                        "htmlID": "u_content_text_8",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%; text-align: center;\"><span style=\"font-size: 34px; line-height: 47.6px;\"><strong><span style=\"line-height: 47.6px; font-size: 34px;\">Join exclusive online webinar</span></strong></span></p>"
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "#ffffff",
+                            "padding": "0px",
+                            "border": {},
+                            "_meta": {
+                                "htmlID": "u_column_11",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "#ffffff",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "_meta": {
+                        "htmlID": "u_row_7",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "contents": [
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "_meta": {
+                                        "htmlID": "u_content_text_9",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"font-size: 14px; line-height: 140%; text-align: center;\"><span style=\"color: #5fb012; font-size: 24px; line-height: 33.6px;\">Latest industry trends and new solutions</span></p>"
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "_meta": {
+                                "htmlID": "u_column_12",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "#ffffff",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "_meta": {
+                        "htmlID": "u_row_8",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "contents": [
+                            {
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "src": {
+                                        "url": "https://sdemailmarketing.com/images/common/templates/messages/255/1/img/05.png",
+                                        "width": 33,
+                                        "height": 26
+                                    },
+                                    "textAlign": "right",
+                                    "altText": "Image",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "_meta": {
+                                        "htmlID": "u_content_image_6",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "_meta": {
+                                "htmlID": "u_column_13",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "#ffffff",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px",
+                    "_meta": {
+                        "htmlID": "u_row_9",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            },
+            {
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "contents": [
+                            {
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#FFFFFF",
+                                        "backgroundColor": "#1b1f25",
+                                        "hoverColor": "#FFFFFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "textAlign": "center",
+                                    "lineHeight": "120%",
+                                    "padding": "10px 20px",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "solid",
+                                        "borderTopColor": "#53565b",
+                                        "borderLeftWidth": "0px",
+                                        "borderLeftStyle": "solid",
+                                        "borderLeftColor": "#53565b",
+                                        "borderRightWidth": "0px",
+                                        "borderRightStyle": "solid",
+                                        "borderRightColor": "#53565b",
+                                        "borderBottomWidth": "3px",
+                                        "borderBottomStyle": "solid",
+                                        "borderBottomColor": "#53565b"
+                                    },
+                                    "borderRadius": "2px",
+                                    "_meta": {
+                                        "htmlID": "u_content_button_1",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<strong><span style=\"font-size: 30px; line-height: 36px;\">Register Now</span></strong>",
+                                    "calculatedWidth": 232,
+                                    "calculatedHeight": 56
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "_meta": {
+                                "htmlID": "u_column_14",
+                                "htmlClassNames": "u_column"
+                            }
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "backgroundColor": "#ffffff",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": false,
+                        "center": true,
+                        "cover": false
+                    },
+                    "padding": "0px 0px 20px",
+                    "_meta": {
+                        "htmlID": "u_row_10",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true
+                }
+            }
+        ],
+        "values": {
+            "textColor": "#000000",
+            "backgroundColor": "#e7e7e7",
+            "backgroundImage": {
+                "url": "",
+                "fullWidth": true,
+                "repeat": false,
+                "center": true,
+                "cover": false
+            },
+            "contentWidth": "500px",
+            "contentAlign": "center",
+            "fontFamily": {
+                "label": "Arial",
+                "value": "arial,helvetica,sans-serif"
+            },
+            "preheaderText": "",
+            "linkStyle": {
+                "body": true,
+                "linkColor": "#0000ee",
+                "linkHoverColor": "#0000ee",
+                "linkUnderline": true,
+                "linkHoverUnderline": true
+            },
+            "_meta": {
+                "htmlID": "u_body",
+                "htmlClassNames": "u_body"
+            }
+        }
+    },
+    "schemaVersion": 6
+}

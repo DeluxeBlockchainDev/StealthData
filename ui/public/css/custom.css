@@ -1,0 +1,16 @@
+.switch.switch-success:not(.switch-outline) input:empty ~ span:before {
+    background-color: grey!important;
+}
+.switch.switch-success:not(.switch-outline) input:checked ~ span:before {
+    background-color: #1BC5BD!important;
+}
+.switch.switch-success:not(.switch-outline) input:empty ~ span:after {
+    opacity: 1;
+    color: #1BC5BD;
+    background-color: #ffffff;
+}
+.switch.switch-success:not(.switch-outline) input:checked ~ span:after {
+    opacity: 1;
+    color: #1BC5BD;
+    background-color: #ffffff;
+}

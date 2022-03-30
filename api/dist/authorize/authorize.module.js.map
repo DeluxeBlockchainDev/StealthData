@@ -1,0 +1,1 @@
+{"version":3,"file":"authorize.module.js","sourceRoot":"","sources":["../../src/authorize/authorize.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAwC;AACxC,mFAA+E;AAS/E,IAAa,kBAAkB,GAA/B,MAAa,kBAAkB;CAAG,CAAA;AAArB,kBAAkB;IAP9B,eAAM,CAAC;QACP,OAAO,EAAE,EAAE;QACV,WAAW,EAAE,CAAC,gDAAsB,CAAC;QACrC,SAAS,EAAE,EAAE;QACb,OAAO,EAAE,EAAE;KACZ,CAAC;GAEW,kBAAkB,CAAG;AAArB,gDAAkB"}
